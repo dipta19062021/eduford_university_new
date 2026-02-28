@@ -4,7 +4,7 @@
 
 A responsive and interactive **full-stack university website** built using modern web technologies. This project simulates a real-world university portal with multiple pages, a functional contact system, and dynamic UI components.
 
-🔗 **Live Demo:** *(Add your deployed link here)*
+🔗 **Live Demo:** *https://eduford-university-new.onrender.com*
 📂 **Repository:** GitHub
 
 ---
