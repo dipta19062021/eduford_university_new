@@ -1,6 +1,6 @@
 
 
-# 🎓 Eduford University – Full Stack University Website
+# 🎓 Eduford University – A Small Full Stack University Website
 
 A responsive and interactive **full-stack university website** built using modern web technologies. This project simulates a real-world university portal with multiple pages, a functional contact system, and dynamic UI components.
 
